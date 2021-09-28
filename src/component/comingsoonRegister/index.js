@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import React, {useState} from 'react';
 import { Card, CardBody, Form, FormGroup, Input, Button } from 'reactstrap';
 import { Image, Navbar, Col, Row} from 'react-bootstrap';
 import './style.css';
