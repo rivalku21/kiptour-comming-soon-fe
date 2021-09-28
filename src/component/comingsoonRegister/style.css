@@ -1,0 +1,12 @@
+.register h5 {
+    text-align: left;
+    margin-bottom: 10px;
+}
+.register Input {
+    border: 1px solid #FFA740;
+}
+
+.registerWrap {
+    width: 50%;
+    margin: auto;
+}

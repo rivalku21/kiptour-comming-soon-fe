@@ -1,0 +1,10 @@
+.countDown span {
+    font-size: 230%;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.countDownTitle span {
+    font-size: smaller;
+    font-weight: 100;
+}
